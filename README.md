@@ -1,5 +1,5 @@
 
-freeCodeCamp_Code 
+myfreeCodeCampCode 
 
 code journal log
 
