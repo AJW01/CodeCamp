@@ -1,4 +1,6 @@
 
 freeCodeCamp_Code 
 
-ajw's code journal 
+code journal log
+
+https://www.freecodecamp.com/aj-willi
