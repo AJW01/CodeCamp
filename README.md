@@ -1,6 +1,6 @@
 
 myfreeCodeCampCode log
 
-a space to store my learning & reference material
+a place to store some of my learning & reference material
 
 https://www.freecodecamp.com/aj-willi
